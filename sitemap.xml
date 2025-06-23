@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Homepage -->
   <url>
     <loc>https://www.magicalwedding.nl/</loc>
     <lastmod>2025-06-23</lastmod>
     <priority>1.00</priority>
   </url>
-
-  <!-- Dienstenpagina's -->
   <url>
     <loc>https://www.magicalwedding.nl/combi-pakket.html</loc>
     <lastmod>2025-06-23</lastmod>
@@ -43,8 +40,6 @@
     <lastmod>2025-06-23</lastmod>
     <priority>0.80</priority>
   </url>
-
-  <!-- Blogpagina's -->
   <url>
     <loc>https://www.magicalwedding.nl/blog</loc>
     <lastmod>2025-06-23</lastmod>
@@ -77,6 +72,16 @@
   </url>
   <url>
     <loc>https://www.magicalwedding.nl/blog/5-tips-voor-een-geslaagde-photobooth-op-je-bruiloft</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.magicalwedding.nl/blog/archives/06-2025</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.magicalwedding.nl/blog/category/all</loc>
     <lastmod>2025-06-23</lastmod>
     <priority>0.64</priority>
   </url>
