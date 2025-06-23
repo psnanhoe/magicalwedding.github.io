@@ -1,89 +1,83 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<script src="chrome-extension://mfidniedemcgceagapgdekdbmanojomk/js/elephant.js"/>
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
-<url>
-<loc>https://www.magicalwedding.nl/</loc>
-<lastmod>2025-06-23T17:26:43+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://www.magicalwedding.nl/combi-pakket.html</loc>
-<lastmod>2025-06-23T17:26:44+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.magicalwedding.nl/photobooth-huren.html</loc>
-<lastmod>2025-06-23T17:26:45+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.magicalwedding.nl/onze-photobooth.html</loc>
-<lastmod>2025-06-23T17:26:45+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.magicalwedding.nl/rookmachine-huren.html</loc>
-<lastmod>2025-06-23T17:26:46+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.magicalwedding.nl/sparkular-effect.html</loc>
-<lastmod>2025-06-23T17:26:47+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.magicalwedding.nl/boek-nu.html</loc>
-<lastmod>2025-06-23T17:26:48+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.magicalwedding.nl/contact.html</loc>
-<lastmod>2025-06-23T17:26:50+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.magicalwedding.nl/blog</loc>
-<lastmod>2025-06-23T17:26:52+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.magicalwedding.nl/blog/7-creatieve-ideeen-voor-jullie-bruiloft-met-een-photobooth</loc>
-<lastmod>2025-06-23T17:26:56+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://www.magicalwedding.nl/blog/het-perfecte-moment-voor-rook-sparkulars-of-photobooth-tijdens-je-bruiloft</loc>
-<lastmod>2025-06-23T17:26:57+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://www.magicalwedding.nl/blog/wat-kost-een-photobooth-op-je-bruiloft-2025-gids</loc>
-<lastmod>2025-06-23T17:26:58+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://www.magicalwedding.nl/blog/wat-is-het-verschil-tussen-sparkulars-en-traditioneel-vuurwerk</loc>
-<lastmod>2025-06-23T17:26:59+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://www.magicalwedding.nl/blog/dansen-op-een-wolk-zo-werkt-een-rookmachine-op-je-bruiloft</loc>
-<lastmod>2025-06-23T17:27:00+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://www.magicalwedding.nl/blog/5-tips-voor-een-geslaagde-photobooth-op-je-bruiloft</loc>
-<lastmod>2025-06-23T17:27:01+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://www.magicalwedding.nl/blog/archives/06-2025</loc>
-<lastmod>2025-06-23T17:27:02+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://www.magicalwedding.nl/blog/category/all</loc>
-<lastmod>2025-06-23T17:27:02+00:00</lastmod>
-<priority>0.64</priority>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.magicalwedding.nl/</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Dienstenpagina's -->
+  <url>
+    <loc>https://www.magicalwedding.nl/combi-pakket.html</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.magicalwedding.nl/photobooth-huren.html</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.magicalwedding.nl/onze-photobooth.html</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.magicalwedding.nl/rookmachine-huren.html</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.magicalwedding.nl/sparkular-effect.html</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.magicalwedding.nl/boek-nu.html</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.magicalwedding.nl/contact.html</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Blogpagina's -->
+  <url>
+    <loc>https://www.magicalwedding.nl/blog</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.magicalwedding.nl/blog/7-creatieve-ideeen-voor-jullie-bruiloft-met-een-photobooth</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.magicalwedding.nl/blog/het-perfecte-moment-voor-rook-sparkulars-of-photobooth-tijdens-je-bruiloft</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.magicalwedding.nl/blog/wat-kost-een-photobooth-op-je-bruiloft-2025-gids</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.magicalwedding.nl/blog/wat-is-het-verschil-tussen-sparkulars-en-traditioneel-vuurwerk</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.magicalwedding.nl/blog/dansen-op-een-wolk-zo-werkt-een-rookmachine-op-je-bruiloft</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.magicalwedding.nl/blog/5-tips-voor-een-geslaagde-photobooth-op-je-bruiloft</loc>
+    <lastmod>2025-06-23</lastmod>
+    <priority>0.64</priority>
+  </url>
 </urlset>
